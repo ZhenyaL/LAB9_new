@@ -1,0 +1,10 @@
+#Ignored files
+
+*.db
+*.log
+
+
+#Ignored directorys
+
+/target
+/bin
